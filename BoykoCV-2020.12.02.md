@@ -16,7 +16,7 @@ Research Project: *Meta-analysis of phylogenetic community assembly*.
 Advisor: Dr. Benjamin Gilbert   
 
 ## Publications
-Boyko, J. D., and J. M. Beaulieu. n.d. Generalized Hidden Markov Models for Phylogenetic Comparative Datasets. Methods in Ecology and Evolution n/a.
+Boyko, J. D., and J. M. Beaulieu. n.d. Generalized Hidden Markov Models for Phylogenetic Comparative Datasets. Methods in Ecology and Evolution n/a.    
 Beaulieu, J., O'Meara, B., Caetano, D. and **Boyko, J.**, 2019. Package ‘hisse’.   
 Nakov, T., **Boyko, J.D.**, Alverson, A.J. and Beaulieu, J.M., 2017. Models with unequal transition rates favor marine origins of Cyanobacteria and photosynthetic eukaryotes. Proceedings of the National Academy of Sciences, 114(50), pp.E10606-E10607.   
 
@@ -28,7 +28,7 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 2019: $500 USD - American Society of Naturalists Travel Grant    
 2017 to 2021: $80,000 USD - Distinguished Doctoral Fellowship    
 2017: $750 USD - SGS Conference Grant    
-2016: $400 USD - Phylogenetic Symposium Travel Grant
+2016: $400 USD - Phylogenetic Symposium Travel Grant    
 
 ## Presentations
 **Boyko, J.D.**, Beaulieu, J.M. (2019) Quantifying the limits of our knowledge in phylogenetic comparative studies. (Quantitative Genetics Workshop - International Workshop). 
@@ -39,18 +39,18 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 **Boyko, J.D.**, Mahler, D. L. (2016) Testing for repeated character displacement in Anolis lizards. (OE3C: Oral presentation – Provincial Conference)   
 
 ## Volunteering and Outreach
-2017 to present: Graduate Student Coordinator for the Arkansas Wildlife Society
-2018 to 2020: Watershed Conservation Resource Center Volunteer 
-2018, 2019: Bearcat Hollow Maintenance Volunteer 
-2017: Atwood Volunteer Coordinator (University of Toronto)   
-2016: Atwood Volunteer (University of Toronto)    
-2014 to 2015: Labratory Technician (Dr. Krkosek's Lab)    
-2013 to 2014: Volunteer (Dr. Agrawal's lab)    
+2017 to present: Graduate Student Coordinator for the Arkansas Wildlife Society    
+2018 to 2020: Watershed Conservation Resource Center Volunteer    
+2018, 2019: Bearcat Hollow Maintenance Volunteer     
+2017: Atwood Volunteer Coordinator (University of Toronto)     
+2016: Atwood Volunteer (University of Toronto)     
+2014 to 2015: Labratory Technician (Dr. Krkosek's Lab)     
+2013 to 2014: Volunteer (Dr. Agrawal's lab)     
 
 ## Teaching Exerpience
 2017 to 2020 Teaching Assistant: BIOL3023 (Evolutionary Biology) - University of Arkansas   
-2016 to 2017 Teaching Assistant: EEB365 (Macroevolution) - University of Toronto   
-2016 to 2017 Teaching Assistant: EEB225 (Biostatistics for Biologists) - University of Toronto   
+2016 to 2017 Teaching Assistant: EEB365 (Macroevolution) - University of Toronto    
+2016 to 2017 Teaching Assistant: EEB225 (Biostatistics for Biologists) - University of Toronto    
 2015 to 2016 Teaching Assistant: BIO220 (From Genomes to Ecosystems in a Changing World) - University of Toronto    
 2015 to 2016 Teaching Assistant: BIO120 (Adaptation and Biodiversity) - University of Toronto    
 
