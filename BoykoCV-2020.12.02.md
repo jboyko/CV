@@ -16,7 +16,7 @@ Research Project: *Meta-analysis of phylogenetic community assembly*.
 Advisor: Dr. Benjamin Gilbert   
 
 ## Publications
-Boyko, J. D., and J. M. Beaulieu. n.d. Generalized Hidden Markov Models for Phylogenetic Comparative Datasets. Methods in Ecology and Evolution n/a.    
+**Boyko, J. D.**, and J. M. Beaulieu. n.d. Generalized Hidden Markov Models for Phylogenetic Comparative Datasets. Methods in Ecology and Evolution n/a.    
 Beaulieu, J., O'Meara, B., Caetano, D. and **Boyko, J.**, 2019. Package ‘hisse’.   
 Nakov, T., **Boyko, J.D.**, Alverson, A.J. and Beaulieu, J.M., 2017. Models with unequal transition rates favor marine origins of Cyanobacteria and photosynthetic eukaryotes. Proceedings of the National Academy of Sciences, 114(50), pp.E10606-E10607.   
 
